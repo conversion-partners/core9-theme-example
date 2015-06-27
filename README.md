@@ -1,1 +1,2 @@
-# core9-theme-example
+# core9-theme-ess
+init
